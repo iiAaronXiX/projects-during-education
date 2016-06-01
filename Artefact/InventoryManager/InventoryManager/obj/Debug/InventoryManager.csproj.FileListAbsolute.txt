@@ -1,0 +1,33 @@
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmLogin.resources
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmOverview.resources
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\Users.mdf
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\Users_log.ldf
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\stock.mdb
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmStockFile.resources
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmAmendStock.resources
+F:\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmAdjustment.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\stock.mdb
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\Users.mdf
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\Users_log.ldf
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmAdjustment.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmAmendStock.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmLogin.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmOverview.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmStockFile.resources
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+D:\Other\Documents\University Work\USB\Individual Project\Artefact\InventoryManager\InventoryManager\obj\Debug\InventoryManager.frmTrouble.resources
